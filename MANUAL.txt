@@ -1,5 +1,5 @@
 ---
-title: Pandoc User's Guide v3
+title: Pandoc User's Guide v4
 author: John MacFarlane
 date: March 8, 2021
 ---
